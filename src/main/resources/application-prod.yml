@@ -38,4 +38,4 @@ app:
     pathStyle: false
     createBucketIfMissing: false
 
-  public-base-url: https://api.nemo.app
+  public-base-url: https://port-0-nemo-docker-springboot-prod-mdy7o3aya1eb5a01.sel5.cloudtype.app
