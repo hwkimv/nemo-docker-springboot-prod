@@ -1,0 +1,1 @@
+package com.nemo.backend.domain.auth.exception;
